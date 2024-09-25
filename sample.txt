@@ -2,3 +2,6 @@ Testing the GIT BASH
 
 Conflicts  the changes
 
+
+
+Adding the changes for feature branch
